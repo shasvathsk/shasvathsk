@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
+
+I am a student at **IIT Madras** in the **BS Data Science** program. I'm passionate about Backend Development.
+
+### 🛠️ Tech Stack:
+- **Languages:** Java, Python, SQL
+- **Tools:** Git, VS Code
+- **Current Learning:** Spring Boot & System Design
 
 <!--
 **shasvathsk/shasvathsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
