@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shasvath 👋
 
 I am a student at **IIT Madras** in the **BS Data Science** program. I'm passionate about Backend Development.
 
